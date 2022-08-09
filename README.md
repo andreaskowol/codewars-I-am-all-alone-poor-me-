@@ -15,7 +15,7 @@ The White House has a wall-penetrating radar security system that sees everythin
 ### Kata Task
 Process the radar image.
 
-Return true if POTUS really is home alone.
+Return `true` if POTUS really is home alone.
 
 ```
 Legend
@@ -38,7 +38,7 @@ o elves
  #                                 #
  ###################################
 ```
-All alone --> true
+All alone --> `true`
 
 ```
 #################
@@ -50,4 +50,4 @@ All alone --> true
    #                  X      #
    ###########################
 ```
-All alone --> false
+All alone --> `false`
